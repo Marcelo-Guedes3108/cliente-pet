@@ -1,4 +1,4 @@
-package br.com.petz.clientepet;
+package br.com.petz.cliente_pet;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
